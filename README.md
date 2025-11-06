@@ -1,4 +1,4 @@
-# Brazil Data API 🇧🇷
+# Brasil Data API 🇧🇷
 
 Uma API RESTful completa para análise de dados demográficos e econômicos brasileiros, com processamento de dados em tempo real, análise estatística e visualizações interativas.
 
